@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Karim!
 
-<!--
-**Khalifeh11/Khalifeh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a lifelong student with an MSc in Psychology and self taught web developer
 
-Here are some ideas to get you started:
+- 💻 I'm currently enrolled in SE factory's FSW bootcamp
+- 🌱 Currently trying to learn JavaScript, SQL, PHP and frameworks like React and Laravel
+- 🎯 2022 goals: build my own app that connects mental health professionals and launch my career as a junior web developer
+- 🎈 Fun fact: I like to practice boxing and MMA in my free time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### Languages and Tools:
+
+- JavaScript
+- PHP
+- SQL
+- React
+- React Native
+- Laravel
+- Figma
