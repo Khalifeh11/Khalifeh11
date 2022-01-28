@@ -1,6 +1,6 @@
 ### Hi there, I'm Karim!
 
-### I'm a lifelong student with an MSc in Psychology and self taught web developer
+### I'm a lifelong student with an MSc in Psychology and a self taught web developer
 
 - 💻 I'm currently enrolled in SE factory's FSW bootcamp
 - 🌱 Currently trying to learn JavaScript, SQL, PHP and frameworks like React and Laravel
