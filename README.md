@@ -36,7 +36,7 @@
 
 ### Stats:
 
-[![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/khalifeh11/github-readme-stats)
+[![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalifeh11)](https://github.com/khalifeh11/github-readme-stats)
 
 
 
