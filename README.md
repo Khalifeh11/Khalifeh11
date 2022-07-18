@@ -2,10 +2,10 @@
 
 ### I'm a lifelong student with an MSc in Psychology and a self taught web developer
 
-- 💻 I'm currently enrolled in SE factory's FSW bootcamp
-- 🌱 Currently trying to learn JavaScript, SQL, PHP and Libraries/Frameworks like React and Laravel
-- 🎯 2022 goals: build my own app that connects mental health professionals and launch my career as a junior web developer
-- 🎈 Fun fact: I like to practice boxing and MMA in my free time
+- 💻 Recently graduated from SE factory's Full Stack Web Development Bootcamp
+- 🌱 Currently working as a Full Stack Developer at Storiad 
+- 🎯 Interested in: React, React Native, Laravel, Node js, Express js
+- 🎈 Fun fact: I like to practice boxing and go on hikes in my free time
 
 <br />
 
