@@ -40,7 +40,7 @@
 
 [![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalifeh11)](https://github.com/khalifeh11/github-readme-stats)
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalifeh11&show_icons=true&locale=en&layout=compact" alt="Khalifeh11" /></p>
- -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalifeh11&show_icons=true&locale=en&layout=compact" alt="Khalifeh11" /></p>
+
 
 
